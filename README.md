@@ -1,4 +1,3 @@
-# FPGA_DSP_FIR_FILTER
 # FPGA-Based DSP FIR Filter
 
 This project implements a simple FIR filter using Verilog, simulates it using a testbench, and verifies the output using MATLAB.
@@ -15,4 +14,4 @@ This project implements a simple FIR filter using Verilog, simulates it using a 
 - `docs/` – MATLAB verification script
 
  # DHARAVATH RENU
-– BTech, ECE, IIITDM Jabalpur
+- BTech, ECE, IIITDM Jabalpur
