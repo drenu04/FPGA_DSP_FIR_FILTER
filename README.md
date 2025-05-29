@@ -13,5 +13,5 @@ This project implements a simple FIR filter using Verilog, simulates it using a 
 - `sim/` – Waveform files
 - `docs/` – MATLAB verification script
 
- # DHARAVATH RENU
+ ## DHARAVATH RENU
 - BTech, ECE, IIITDM Jabalpur
